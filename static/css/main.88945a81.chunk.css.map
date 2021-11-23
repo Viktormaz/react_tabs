@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Tabs.css","webpack://src/App.scss"],"names":[],"mappings":"AAAA,YACE,kBACF,CCDA,KACE,iBAAkB","file":"main.88945a81.chunk.css","sourcesContent":[".tab__title {\n  margin-bottom: 20px;\n}\n","// Put styles here\n.App {\n  text-align: center;\n}\n"]}
